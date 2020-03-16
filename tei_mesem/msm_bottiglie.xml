@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Bottiglie</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Bottiglie</head>
+					<lg type="stanza">					
+						<l>Non siamo tutti simili a bottiglie</l>
+						<l>ripiene di ricordi e <msm:msmWr><msm:derWr fromSem="cronache;anticaglie"><msm:notGr><msm:recGr recWhere="Prato" recWhat="croniere">cron</msm:recGr></msm:notGr>icaglie</msm:derWr></msm:msmWr>?</l>
+						<l><msm:msmWr>Bistròccoli</msm:msmWr>, <msm:msmWr><msm:notGr><msm:recGr mWhere="Il lonfo" recWhat="frusco">frusc</msm:recGr></msm:notGr>helli</msm:msmWr>, <msm:msmWr><msm:altWr fromSem="filacci">filaccetti</msm:altWr></msm:msmWr></l>
+						<l>ricolmano le pance <msm:msmWr><msm:altWr fromSem="trasparenti">trasparine</msm:altWr></msm:msmWr>,</l>
+						<l><msm:msmWr><msm:derWr fromSem="fanfaluche;stupidaggini">fanfàggini</msm:derWr></msm:msmWr>, <msm:msmWr><msm:altWr fromSem="birilli">birìllidi</msm:altWr></msm:msmWr>, <msm:msmWr><msm:altWr fromSem="nulla">nulletti</msm:altWr></msm:msmWr></l>
+						<l>s’<msm:msmWr><msm:derWr fromSem="assiepano;serpi">asserpano</msm:derWr></msm:msmWr> in ghirlande <msm:msmWr>cilestrine</msm:msmWr>...</l>
+						<l>Se scuoti la bottiglia <msm:msmWr><msm:altWr fromSem="disgregata">sgrengoluta</msm:altWr></msm:msmWr></l>
+						<l>risorgono <msm:msmWr><msm:altWr fromSem="magoni">megoni</msm:altWr></msm:msmWr> e <msm:msmWr><msm:notGr><msm:recGr recWhere="Circuito dell'anima" recWhat="gàstrìci">gastr</msm:recGr></msm:notGr>ifèmi</msm:msmWr>,</l>
+						<l>rispuntano tra <msm:msmWr>mèmmola</msm:msmWr> <msm:msmWr>grognuta</msm:msmWr></l>
+						<l>nascosti <msm:msmWr>vercigogni</msm:msmWr> e <msm:msmWr><msm:altWr fromSem="schifo">schifilemi</msm:altWr></msm:msmWr>.</l>
+						<l>Talvolta vedi invece <msm:msmWr>lumigenti</msm:msmWr></l>
+						<l><msm:msmWr>miriàgoli</msm:msmWr>, <msm:msmWr>trigèridi</msm:msmWr>, <msm:msmWr>fernuschi</msm:msmWr>,</l>
+						<l>e piangi su <msm:msmWr><msm:notGr><msm:recGr recWhere="Prato" recWhat="gavato">gavat</msm:recGr></msm:notGr>i</msm:msmWr> struggimenti</l>
+						<l>finiti coi <msm:msmWr><msm:notGr><msm:recGr recId="1">pata</msm:recGr></msm:notGr>ssi</msm:msmWr> fra i <msm:msmWr><msm:altWr fromSem="rifiuti">rifiuschi</msm:altWr></msm:msmWr>.</l>
+						<l>Non tornano a rivivere le facce</l>
+						<l>d’amici e d’<msm:msmWr><msm:altWr fromSem="amori">amorilli</msm:altWr></msm:msmWr> <msm:msmWr><msm:notGr><msm:recGr recWhere="Le pietre rare" recWhat="alluscherai">luscher</msm:recGr></msm:notGr>osi</msm:msmWr>?</l>
+						<l><msm:msmWr><msm:derWr fromSem="risuonano;esplodono">Risplòdono</msm:derWr></msm:msmWr> le voci, le <msm:msmWr>morcacce</msm:msmWr></l>
+						<l>d’incontri <msm:msmWr><msm:altWr fromSem="cuspidi">cuspidiali</msm:altWr></msm:msmWr> e <msm:msmWr><msm:altWr fromSem="trucidi"><msm:notGr><msm:recGr recWhere="Dialogo celeste" recWhat="trucidagni">trucid</msm:recGr></msm:notGr>iosi</msm:altWr></msm:msmWr>!</l>
+						<l>Poi un giorno la bottiglia si <msm:msmWr><msm:derWr fromSem="trapassa;fracassa">tracassa</msm:derWr></msm:msmWr>,</l>
+						<l>il vetro si <msm:msmWr><msm:recWr recWhere="Prato" reWhat="sbiréngola">sbiréngola</msm:recWr></msm:msmWr> nel sole</l>
+						<l>in <msm:msmWr><msm:derWr fromSem="cocci;croccanti">croccherucci</msm:derWr></msm:msmWr> verdi, in <msm:msmWr><msm:notGr><msm:recGr recId="1">pata</msm:recGr></msm:notGr>frassa</msm:msmWr>,</l>
+						<l>tra l’erbe <msm:w>cucche</msm:w> e <msm:msmWr><msm:misWr>cionche</msm:misWr></msm:msmWr> di <msm:msmWr><msm:misWr>pagliòle</msm:misWr></msm:msmWr>.</l>
+						<l>Ahi dove sono allora i <msm:msmWr>gaviretti</msm:msmWr>,</l>
+						<l>i nobili <msm:msmWr><msm:derWr fromSem="ricordi;trascorsi">tracordi</msm:derWr></msm:msmWr>, i <msm:msmWr><msm:altWr fromSem="rimembrare">rimembrili</msm:altWr></msm:msmWr>.</l>
+						<l>i <msm:msmWr>càccheri</msm:msmWr>, gli <msm:msmWr>smèrmidi</msm:msmWr>, i <msm:msmWr><msm:notGr><msm:recGr recWhere="Dialogo celeste" recWhat="frullecchie">frull</msm:recGr></msm:notGr>etti</msm:msmWr>,</l>
+						<l>i <msm:msmWr><msm:notGr><msm:recGr recWhere="Circuito dell'anima" recWhat="mòrfido">mòrf</msm:recGr></msm:notGr>ani</msm:msmWr>, gli <msm:msmWr>sghèfani</msm:msmWr> gentili?</l>
+						<l><msm:msmWr><msm:recWr recId="1">Sdrafànico</msm:recWr></msm:msmWr> mistero di bottiglia</l>
+						<l>bottiglia di <msm:msmWr><msm:recWr recId="1">sdrafànico</msm:recWr></msm:msmWr> mistero.</l>					
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

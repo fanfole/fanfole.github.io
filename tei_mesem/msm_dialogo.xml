@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Dialogo celeste</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Dialogo celeste</head>
+					<lg type="stanza">
+						<l>- E tu quando vivesti? – Io vissi all’era</l>
+						<l>degli <msm:msmWr>Andali</msm:msmWr> <msm:msmWr><msm:altWr fromSem="ludici"><msm:notGr><msm:recGr recWhere="Chiesa" recWhat="ludiavano">ludi</msm:recGr></msm:notGr>ati</msm:altWr></msm:msmWr> e <msm:msmWr><msm:derWr fromSem="perfidi;insidiosi">perfidiosi</msm:derWr></msm:msmWr>:</l>
+						<l>gli <msm:msmWr>artèdoni</msm:msmWr> <msm:msmWr><msm:altWr fromSem="lira">liriavano</msm:altWr></msm:msmWr> in <msm:msmWr>finiera</msm:msmWr></l>
+						<l><msm:msmWr>metàrcopi</msm:msmWr> e <msm:msmWr>sin<msm:notGr><msm:recGr recWhere="Il vecchio Troncia" recWhat="ludrèfani">drèfan</msm:recGr></msm:notGr>i</msm:msmWr> <msm:msmWr>rodiosi</msm:msmWr>...</l>
+						<l>- Io invece vissi ai tempi <msm:msmWr>laccheroni</msm:msmWr></l>
+						<l>degli <msm:msmWr>ùzzeri</msm:msmWr> <msm:msmWr>bagiosi</msm:msmWr> e <msm:msmWr>guazzacagni</msm:msmWr>;</l>
+						<l>s’andava <msm:msmWr><msm:altWr fromSem="intorno">lornogorno</msm:altWr></msm:msmWr> a <msm:msmWr><msm:derWr fromSem="brancolare;tentoni">brencoloni</msm:derWr></msm:msmWr></l>
+						<l>tra <msm:msmWr>làlleri</msm:msmWr>, <msm:msmWr>gaglioppe</msm:msmWr> e <msm:msmWr><msm:notGr><msm:recGr recWhere="Bottiglie" recWhat="trucidiosi">trucid</msm:recGr></msm:notGr>agni</msm:msmWr>;</l>
+						<l>d’inverno si <msm:msmWr>zurcavano</msm:msmWr> le <msm:msmWr>precchie</msm:msmWr></l>
+						<l><msm:msmWr><msm:misWr><msm:notGr><msm:recGr recWhere="Il lonfo" recWhat="accazzi">cazz</msm:recGr></msm:notGr>ando</msm:misWr></msm:msmWr> <msm:msmWr>lorigucci</msm:msmWr> e <msm:msmWr>naderlini</msm:msmWr>,</l>
+						<l>a maggio si correvan le <msm:msmWr><msm:notGr><msm:recGr recWhere="Bottiglie" recWhat="frulletti">frull</msm:recGr></msm:notGr>ecchie</msm:msmWr></l>
+						<l><msm:msmWr>s<msm:notGr><msm:recGr recWhere="Il lonfo" recWhat="fonca">fonc</msm:recGr></msm:notGr>ando</msm:msmWr> con urlacci i <msm:msmWr>mogherini</msm:msmWr>.</l>
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

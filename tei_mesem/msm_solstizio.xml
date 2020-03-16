@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Solstizio d'estate</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Solstizio d’estate</head>
+					<lg type="stanza">	
+						<l><msm:msmWr><msm:altWr fromSem="gira">Giracchia</msm:altWr></msm:msmWr> vorticando un <msm:msmWr>caligello</msm:msmWr></l>
+						<l>e <msm:msmWr><msm:altWr fromSem="friggono">sfrìggican</msm:altWr></msm:msmWr> le <msm:msmWr>fonfe</msm:msmWr> in <msm:msmWr>gnegnoloni</msm:msmWr></l>
+						<l><msm:msmWr>stragizza</msm:msmWr> <msm:msmWr>firignàtico</msm:msmWr> un <msm:msmWr><msm:notGr><msm:recGr recWhere="Via Veneto" recWhat="morfegi">morf</msm:recGr></msm:notGr>ello</msm:msmWr></l>
+						<l>tra i <msm:msmWr><msm:derWr fromSem="guglia;cespugli">gugli</msm:derWr></msm:msmWr>, i <msm:msmWr>melisappi</msm:msmWr>, i <msm:msmWr>tarpagnoni</msm:msmWr>.</l>
+						<l><msm:msmWr><msm:recWr recId="1"><msm:notGr><msm:recGr recId="2">Spiff</msm:recGr></msm:notGr>ate</msm:recWr></msm:msmWr> o <msm:msmWr>bellindane</msm:msmWr> i <msm:msmWr>tornichetti</msm:msmWr>,</l>
+						<l><msm:msmWr><msm:recWr recId="1">spiffate</msm:recWr></msm:msmWr> <msm:msmWr><msm:altWr fromSem="ninfa">ninfaroli</msm:altWr></msm:msmWr> le <msm:msmWr>fernacchie</msm:msmWr>!</l>
+						<l>Chi <msm:msmWr><msm:notGr><msm:recGr recId="2">spiff</msm:recGr></msm:notGr>a</msm:msmWr> si <msm:msmWr>ri<msm:recWr recWhere="E gnacche alla formica" recWhat="spàffera">spàffera</msm:recWr></msm:msmWr> in <msm:msmWr>budretti</msm:msmWr></l>
+						<l>chi <msm:msmWr><msm:misWr fromSem="no">ciucca</msm:misWr></msm:msmWr> si <msm:msmWr><msm:altWr fromSem="incocca">rincòcchera</msm:altWr></msm:msmWr> in <msm:msmWr>gerlacchie</msm:msmWr>.</l>
+						<l>Gettiamo i <msm:msmWr>bustifagni</msm:msmWr> alla <msm:msmWr>malventa</msm:msmWr>?</l>
+						<l>E i <msm:msmWr>lònferi</msm:msmWr> nel fuoco <msm:msmWr>piripigno</msm:msmWr>?</l>
+						<l><msm:msmWr><msm:altWr fromSem="risciacqui"><msm:notGr><msm:recGr recWhere="Gli Arconti dell'Urazio" recWhat="straquascio">Straquasc</msm:recGr></msm:notGr>i</msm:altWr></msm:msmWr> l’<msm:msmWr><msm:derWr fromSem="oro;anticaglie">orgicaglie</msm:derWr></msm:msmWr> a luna <msm:msmWr><msm:altWr fromSem="spenta"><msm:notGr><msm:recGr recWhere="Il vecchio Troncia" recWhat="sbrentifroncia">sbrent</msm:recGr></msm:notGr>a</msm:altWr></msm:msmWr></l>
+						<l>e <msm:msmWr>trònagi</msm:msmWr> <msm:msmWr><msm:misWr>lupastro</msm:misWr></msm:msmWr> il <msm:msmWr>frizzivigno</msm:msmWr>!</l>	
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

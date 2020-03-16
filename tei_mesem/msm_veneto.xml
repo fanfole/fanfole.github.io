@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Via Veneto</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Via Veneto</head>
+					<lg type="stanza">	
+						<l>Il <msm:msmWr>Trònfero</msm:msmWr> s’<msm:msmWr>ammalvola</msm:msmWr> in <msm:msmWr><msm:altWr fromSem="verbo">verbizie</msm:altWr></msm:msmWr></l>
+						<l><msm:msmWr><msm:altWr fromSem="incantando">incanticando</msm:altWr></msm:msmWr> <msm:msmWr>sbèrboli</msm:msmWr> <msm:msmWr><msm:altWr fromSem="gioco">giocaci</msm:altWr></msm:msmWr>,</l>
+						<l><msm:msmWr>sbramìna</msm:msmWr> con <msm:msmWr><msm:altWr fromSem="solenni">solènnidi</msm:altWr></msm:msmWr> e <msm:msmWr><msm:derWr fromSem="volpe;furbizie">vulpizie</msm:derWr></msm:msmWr></l>
+						<l>tra i tavoli e gli <msm:msmWr>ortèdoni</msm:msmWr> fugaci.</l>
+						<l>Più raro più <msm:msmWr>sinferbo</msm:msmWr> più <msm:msmWr>merconio</msm:msmWr></l>
+						<l>il <msm:msmWr>Plòcrate</msm:msmWr> dagli occhi a <msm:msmWr><msm:altWr fromSem="drago">dragonetti</msm:altWr></msm:msmWr></l>
+						<l><msm:msmWr><msm:altWr fromSem="barcolla">scocolla</msm:altWr></msm:msmWr> <msm:msmWr><msm:altWr fromSem="barcolla">barcoluto</msm:altWr></msm:msmWr> e <msm:msmWr><msm:altWr fromSem="inverecondo">invereconio</msm:altWr></msm:msmWr></l>
+						<l>all’ora dei <msm:msmWr><msm:notGr><msm:recGr recWhere="Solstizio d'estate" recWhat="morfello">morf</msm:recGr></msm:notGr>egi</msm:msmWr> e dei <msm:msmWr>gorbetti</msm:msmWr>.</l>
+						<l>Intorno <msm:msmWr><msm:derWr fromSem="convergono;volteggiano">convoltigiano</msm:derWr></msm:msmWr> le <msm:msmWr><msm:altWr fromSem="squinzie">Sguince</msm:altWr></msm:msmWr></l>
+						<l><msm:msmWr>allìcchere</msm:msmWr> di <msm:msmWr><msm:altWr fromSem="giochi">giorcadi</msm:altWr></msm:msmWr> <msm:msmWr><msm:altWr fromSem="porno"><msm:notGr><msm:recGr recWhere="Circuito dell'anima" recWhat="criptoporni">porn</msm:recGr></msm:notGr>ali</msm:altWr></msm:msmWr></l>
+						<l>nel sole si <msm:msmWr>s<msm:notGr><msm:recGr recWhere="Gli Arconti dell'Urazio;Prato" recWhat="marmellino;marmellume">marmel</msm:recGr></msm:notGr>lano</msm:msmWr> <msm:msmWr>budrince</msm:msmWr></l>
+						<l>al neon s’<msm:msmWr><msm:derWr fromSem="affastellano;fastigio">affastigiano</msm:derWr></msm:msmWr> <msm:msmWr><msm:altWr fromSem="vetro">vetrali</msm:altWr></msm:msmWr>.</l>
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

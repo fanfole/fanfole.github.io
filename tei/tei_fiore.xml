@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Fiore secco in libro vecchio</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Fiore secco in libro vecchio</head>
+				<lg type="stanza">
+					<l>Ricordi quando usavano le boppie</l>
+					<l>calate sui pitànferi supigni,</l>
+					<l>e légoli girucchi a panfe doppie</l>
+					<l>ornavano gli splagi e i pitirigni?</l>
+					<l>Oh zie, oh dolci zie in bardocheta</l>
+					<l>voltatevi col glostro ricamato,</l>
+					<l>scendete per le scale a beta beta</l>
+					<l>dai màberi del tempo agglutinato!</l>
+					<l>Chissà laggiù se ancora la sbidiera</l>
+					<l>gramugna lentamente a cantalaghi</l>
+					<l>nell’ufe coccia coccia della sera?</l>
+					<l>Or più non usa uscire sugli sbaghi</l>
+					<l>guardando avanti a sé con aria altera,</l>
+					<l>tra i lùgheri, gli arcostoli, gli snaghi.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

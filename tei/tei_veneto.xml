@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Via Veneto</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Via Veneto</head>
+				<lg type="stanza">
+					<l>Il Trònfero s’ammalvola in verbizie</l>
+					<l>incanticando sbèrboli giocaci,</l>
+					<l>sbramìna con solènnidi e vulpizie</l>
+					<l>tra i tavoli e gli ortèdoni fugaci.</l>
+					<l>Più raro più sinferbo più merconio</l>
+					<l>il Plòcrate dagli occhi a dragonetti</l>
+					<l>scocolla barcoluto e invereconio</l>
+					<l>all’ora dei morfegi e dei gorbetti.</l>
+					<l>Intorno convoltigiano le Sguince</l>
+					<l>allìcchere di giorcadi pornali</l>
+					<l>nel sole si smarmellano budrince</l>
+					<l>al neon s’affastigiano vetrali.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

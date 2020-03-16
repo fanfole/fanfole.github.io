@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Circuito dell'anima</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Circuito dell’anima</head>
+					<lg type="stanza">					
+						<l>Viaggiammo per millenni tra gli <msm:msmWr><msm:altWr fromSem="plagi"><msm:recWr recWhere="Fiore secco in libro vecchio" recWhat="splagi">splagi</msm:recWr></msm:altWr></msm:msmWr></l>
+						<l>giù giù nei <msm:msmWr><msm:derWr fromSem="criptici;porno">cripto<msm:notGr><msm:recGr recWhere="Via Veneto" recWhat="pornali">porn</msm:recGr></msm:notGr>i</msm:derWr></msm:msmWr> <msm:msmWr><msm:derWr fromSem="strani;insidiosi">stranidiosi</msm:derWr></msm:msmWr>,</l>
+						<l>lontano <msm:msmWr><msm:altWr fromSem="fosforavano">fosforivano</msm:altWr></msm:msmWr> gli <msm:msmWr><msm:misWr>Arcagi</msm:misWr></msm:msmWr></l>
+						<l>o i <msm:msmWr>Mongi</msm:msmWr> <msm:msmWr>teloprènici</msm:msmWr> e <msm:msmWr>quidiosi</msm:msmWr>.</l>
+						<l>Aiuto, orrore! I <msm:msmWr><msm:altWr fromSem="gàstrici"><msm:notGr><msm:recGr recWhere="Bottiglie" recWhat="gastrifèmi">gàstr</msm:recGr></msm:notGr>íci</msm:altWr></msm:msmWr>, gli <msm:msmWr>smébri</msm:msmWr>,</l>
+						<l>s’<msm:msmWr><msm:derWr fromSem="aggrappano;intrecciano">aggrécciano</msm:derWr></msm:msmWr> sugli <msm:msmWr>énfani</msm:msmWr> <msm:msmWr><msm:derWr fromSem="druciti;bruniti">druniti</msm:derWr></msm:msmWr>,</l>
+						<l>o calano <msm:msmWr>bustrènici</msm:msmWr> gli <msm:msmWr><msm:derWr fromSem="affetti;ebbri" altSem="affanni">affèbri</msm:derWr></msm:msmWr></l>
+						<l>coi <msm:msmWr><msm:misWr>fòrnici</msm:misWr></msm:msmWr> <msm:msmWr><msm:derWr fromSem="viti;turpi">viturpi</msm:derWr></msm:msmWr> ed <msm:msmWr><msm:altWr fromSem="allupati">allupiti</msm:altWr></msm:msmWr>...</l>
+						<l>Fuggiamo, via! <msm:msmWr><msm:derWr fromSem="amorfo;infido" wAlt="ammorbato">am<msm:notGr><msm:recGr recWhere="Bottiglie" recWhat="mòrfani">mòrf</msm:recGr></msm:notGr>ido</msm:derWr></msm:msmWr> l'<msm:msmWr msmug="en/catr/o">encatro</msm:msmWr></l>
+						<l><msm:msmWr><msm:altWr fromSem="sbava">sbaveggia</msm:altWr></msm:msmWr> una <msm:msmWr><msm:derWr fromSem="sugo;infida">sughèfida</msm:derWr></msm:msmWr> <msm:msmWr><msm:altWr fromSem="melassa">melissi</msm:altWr></msm:msmWr>,</l>
+						<l>ovunque <msm:msmWr><msm:misWr>drogo</msm:misWr></msm:msmWr> <msm:msmWr><msm:altWr fromSem="incancrenisce">accàncrena</msm:altWr></msm:msmWr> lo <msm:msmWr><msm:derWr fromSem="sfatto;atro">sfatro</msm:derWr></msm:msmWr>.</l>
+						<l>Eppure – ahi meraviglia – tra gli <msm:msmWr>spissi</msm:msmWr></l>
+						<l><msm:msmWr><msm:derWr fromSem="gravosi;grumosi">gramosi</msm:derWr></msm:msmWr> e <msm:msmWr><msm:altWr fromSem="blasfemi">blastifèmi</msm:altWr></msm:msmWr>, sul <msm:msmWr><msm:derWr fromSem="bovaro;atro">bovatro</msm:derWr></msm:msmWr></l>
+						<l><msm:msmWr><msm:altWr fromSem="svettano">svettiscono</msm:altWr></msm:msmWr> <msm:msmWr>zirgendo</msm:msmWr> gli <msm:msmWr><msm:altWr fromSem="acroliti">acrolissi</msm:altWr></msm:msmWr>.</l>
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

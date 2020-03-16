@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Solstizio d'estate</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Solstizio d’estate</head>
+				<lg type="stanza">
+					<l>Giracchia vorticando un caligello</l>
+					<l>e sfrìggican le fonfe in gnegnoloni</l>
+					<l>stragizza firignàtico un morfello</l>
+					<l>tra i gugli, i melisappi, i tarpagnoni.</l>
+					<l>Spiffate o bellindane i tornichetti,</l>
+					<l>spiffate ninfaroli le fernacchie!</l>
+					<l>Chi spiffa si rispàffera in xbudretti</l>
+					<l>chi ciucca si rincòcchera in gerlacchie.</l>
+					<l>Gettiamo i bustifagni alla malventa?</l>
+					<l>E i lònferi nel fuoco xpiripigno?</l>
+					<l>Straquasci l’orgicaglie a luna sbrenta</l>
+					<l>e trònagi lupastro il xfrizzivigno!</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

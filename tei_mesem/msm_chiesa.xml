@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Chiesa</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Chiesa</head>
+					<lg type="stanza">					
+						<l><msm:msmWr>Poriammo</msm:msmWr> <msm:msmWr>fernilegi</msm:msmWr> e <msm:msmWr>basilioni</msm:msmWr></l>
+						<l>col cuore in fiamme e gli occhi al cielo <msm:msmWr>ircale</msm:msmWr>.</l>
+						<l>Invano <msm:msmWr><msm:altWr fromSem="carpimmo">carpigemmo</msm:altWr></msm:msmWr>! I <msm:msmWr><msm:notGr><msm:recGr recWhere="Gli Arconti dell'Urazio" recWhat="mormano">morm</msm:recGr></msm:notGr>ogoni</msm:msmWr></l>
+						<l><msm:msmWr><msm:notGr><msm:recGr recWhere="Dialogo celeste" recWhat="ludiati">ludi</msm:recGr></msm:notGr>avano</msm:msmWr> <msm:msmWr>perfuschi</msm:msmWr> in <msm:msmWr>sinfodiale</msm:msmWr>.</l>
+						<l>Sperammo forse troppo? Un <msm:msmWr><msm:derWr fromSem="luce;nubifragio"><msm:notGr><msm:recGr recWhere="Ballo" recWhat="lucifuso">luci</msm:recGr></msm:notGr>fragio</msm:derWr></msm:msmWr></l>
+						<l><msm:msmWr><msm:derWr fromSem="gogna;agognammo">gognammo</msm:derWr></msm:msmWr> <msm:msmWr><msm:notGr><msm:recGr recWhere="Il lonfo" recWhat="lègica">lèg</msm:recGr></msm:notGr>i</msm:msmWr> in mistiche raggere;</l>
+						<l><msm:msmWr><msm:altWr fromSem="sorso">sursimmo</msm:altWr></msm:msmWr> all’<msm:msmWr>epidràtico</msm:msmWr> naufragio</l>
+						<l>perduti tra le <msm:msmWr>plòradi</msm:msmWr> <msm:msmWr>sidiere</msm:msmWr>...</l>
+						<l>Fu tutto un <msm:msmWr>fribbio</msm:msmWr>, un <msm:msmWr>bùghero</msm:msmWr>, un <msm:msmWr>lappime</msm:msmWr></l>
+						<l>di <msm:msmWr>fànfole</msm:msmWr> e <msm:msmWr>nonnecchie</msm:msmWr> <msm:msmWr>aggretucciate</msm:msmWr>?</l>
+						<l>Ahi un <msm:msmWr>trèmide</msm:msmWr>, un <msm:msmWr>balùgero</msm:msmWr>, uno <msm:msmWr>sbrime</msm:msmWr></l>
+						<l><msm:msmWr><msm:altWr fromSem="vagammo">vagemmo</msm:altWr></msm:msmWr> con le mani <msm:msmWr>attramigate</msm:msmWr>!</l>
+						<l>Invece nulla: il <msm:msmWr>cratto</msm:msmWr>, i <msm:msmWr><msm:altWr fromSem="balsamo">balsamieri</msm:altWr></msm:msmWr></l>
+						<l><msm:msmWr><msm:notGr><msm:recGr recWhere="Che fanno?" recWhat="morgaglie">morg</msm:recGr></msm:notGr>avano</msm:msmWr> l’<msm:msmWr>ipèrcade</msm:msmWr> <msm:msmWr>marmale</msm:msmWr>.</l>
+						<l>Il <msm:msmWr>mugno</msm:msmWr> è <msm:msmWr>zonfo</msm:msmWr>: il <msm:msmWr><msm:altWr fromSem="feretro">fetro</msm:altWr></msm:msmWr>, i <msm:msmWr><msm:derWr fromSem="catafalco;tomba" altSem="ecatombe">catombieri</msm:derWr></msm:msmWr></l>
+						<l><msm:msmWr>agnàttano</msm:msmWr> sul <msm:msmWr>drome</msm:msmWr> <msm:msmWr><msm:altWr fromSem="porfido">imporfidale</msm:altWr></msm:msmWr>.</l>		
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

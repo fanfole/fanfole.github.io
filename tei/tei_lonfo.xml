@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Il lonfo</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Il lonfo</head>
+				<lg type="stanza">
+					<l>Il lonfo non vaterca né gluisce</l>
+					<l>e molto raramente barigatta,</l>
+					<l>ma quando soffia il bego a bisce bisce</l>
+					<l>sdilenca un poco, e gnagio s’archipatta.</l>
+					<l>È frusco il lonfo! È pieno di lupigna</l>
+					<l>arrafferia malversa e sofolenta!</l>
+					<l>Se cionfi ti sbiduglia e t’arrupigna</l>
+					<l>se lugri ti botalla e ti criventa.</l>
+					<l>Eppure il vecchio lonfo ammargelluto</l>
+					<l>che bete e zugghia e fonca nei trombazzi</l>
+					<l>fa lègica busìa, fa gisbuto;</l>
+					<l>e quasi quasi, in segno di sberdazzi</l>
+					<l>gli affarfaresti un gniffo. Ma lui zuto</l>
+					<l>t’alloppa, ti sbernecchia; e tu l’accazzi.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

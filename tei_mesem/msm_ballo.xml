@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Ballo</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Ballo</head>
+					<lg type="stanza">				
+						<l><msm:msmWr><msm:altWr fromSem="vortica">Vortègida</msm:altWr></msm:msmWr> e <msm:msmWr><msm:altWr fromSem="festeggia"><msm:notGr><msm:recGr recWhere="Il giorno ad urlapicchio;Le pietre rare;Gli Arconti dell'Urazio" recWhat="festicchio;festalìa;festigi">fest</msm:recGr></msm:notGr>uglia</msm:altWr></msm:msmWr> o <msm:msmWr>dulcibana</msm:msmWr></l>
+						<l>e <msm:msmWr><msm:recWr recId="1">sdrìllera</msm:recWr></msm:msmWr> che <msm:msmWr><msm:recWr recId="2">sdràllero</msm:recWr></msm:msmWr>! Sul <msm:msmWr><msm:altWr fromSem="sfizio">fizio</msm:altWr></msm:msmWr></l>
+						<l>la musica ci <msm:msmWr>zùnfrega</msm:msmWr> e ci <msm:msmWr>sdrana</msm:msmWr></l>
+						<l>con <msm:msmWr>tròdige</msm:msmWr> <msm:msmWr>buriagico</msm:msmWr> e <msm:msmWr><msm:altWr fromSem="rubizzo">rubizio</msm:altWr></msm:msmWr>.</l>
+						<l>Lo sai che gli occhi <msm:msmWr>gneschi</msm:msmWr> e <msm:msmWr><msm:derWr fromSem="turchesi;radiosi" altSem="odiosi">turchidiosi</msm:derWr></msm:msmWr></l>
+						<l>son come abissi <msm:msmWr><msm:notGr><msm:recGr recWhere="E gnacche alla formica" recWhat="velvine">vèlv</msm:recGr></msm:notGr>oli</msm:msmWr> e <msm:msmWr><msm:derWr fromSem="maligni;grigi">maligi</msm:derWr></msm:msmWr>?</l>
+						<l>Lo sai che nei <msm:msmWr><msm:derWr fromSem="bluognoli;rigagnoli">bluàgnoli</msm:derWr></msm:msmWr> <msm:msmWr>miriosi</msm:msmWr></l>
+						<l><msm:msmWr>tracàcero</msm:msmWr> con <msm:msmWr>lèfane</msm:msmWr> <msm:msmWr>deligi</msm:msmWr>?</l>
+						<l>Ah <msm:msmWr><msm:recWr recId="1">sdrìllera</msm:recWr></msm:msmWr> che <msm:msmWr><msm:recWr recId="2">sdràllero</msm:recWr></msm:msmWr>, <msm:msmWr><msm:altWr fromSem="mormora">mumurra</msm:altWr></msm:msmWr></l>
+						<l>parole <msm:msmWr>lampigiane</msm:msmWr> ed <msm:msmWr><msm:derWr fromSem="ombra;lalia">umbralìe</msm:derWr></msm:msmWr>,</l>
+						<l>t’ascolto <msm:msmWr><msm:derWr fromSem="luce;fuso"><msm:notGr><msm:recGr recWhere="Chiesa" recWhat="lucifragio">luci</msm:recGr></msm:notGr>fuso</msm:derWr></msm:msmWr> nell’azzurra</l>
+						<l>voragine d’un’alba di bugie.</l>
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

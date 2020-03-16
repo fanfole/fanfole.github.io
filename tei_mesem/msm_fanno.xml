@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Che fanno?</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Che fanno?</head>
+					<lg type="stanza">
+						<l>Cancella il mondo, o <msm:msmWr><msm:recWr recId="1">Sdrènfano</msm:recWr></msm:msmWr>! Ti dico</l>
+						<l>cancella quest’<msm:msmWr><msm:derWr fromSem="ingabbia;dubbio">ingubbio</msm:derWr></msm:msmWr> <msm:msmWr><msm:altWr fromSem="ammorbato">ammorboluto</msm:altWr></msm:msmWr>;</l>
+						<l>è inutile <msm:msmWr><msm:notGr><msm:recGr recWhere="Il giorno ad urlapicchio" recWhat="timparlini">timp</msm:recGr></msm:notGr>are</msm:msmWr> a <msm:msmWr><msm:notGr><msm:recGr recWhere="Prato" recWhat="cianciafraglie">ciancia</msm:recGr></msm:notGr>fico</msm:msmWr></l>
+						<l>gli <msm:msmWr>sbrègi</msm:msmWr> d’un <msm:msmWr>blafònfero</msm:msmWr> <msm:msmWr><msm:altWr fromSem="fogna">fognuto</msm:altWr></msm:msmWr>.</l>
+						<l>Che fanno i <msm:msmWr>morzacacchi</msm:msmWr>, i <msm:msmWr>gloriconi</msm:msmWr>?</l>
+						<l><msm:msmWr>Strabiosciano</msm:msmWr> in <msm:msmWr>moffucci</msm:msmWr>, in <msm:msmWr>godicaglie</msm:msmWr>.</l>
+						<l>Che fanno i <msm:msmWr>migarelli</msm:msmWr>? A <msm:msmWr><msm:altWr fromSem="bocconi">strabuconi</msm:altWr></msm:msmWr></l>
+						<l><msm:msmWr><msm:altWr fromSem="grattano">gratterchiano</msm:altWr></msm:msmWr> le <msm:msmWr>zocchie</msm:msmWr> e le <msm:msmWr><msm:notGr><msm:recGr recWhere="Chiesa" recWhat="morgavano">morg</msm:recGr></msm:notGr>aglie</msm:msmWr>.</l>
+						<l>Ahi <msm:msmWr><msm:recWr recId="1">Sdrènfano</msm:recWr></msm:msmWr> <msm:msmWr><msm:derWr fromSem="vanto;tardo">vantardo</msm:derWr></msm:msmWr> e <msm:msmWr><msm:altWr fromSem="carpire">carpiniero</msm:altWr></msm:msmWr></l>
+						<l><msm:msmWr><msm:altWr fromSem="basta">strabasta</msm:altWr></msm:msmWr> con gli <msm:msmWr><msm:altWr fromSem="brilli">sbrilli</msm:altWr></msm:msmWr> e con le ciance.</l>
+						<l>È tempo, è <msm:msmWr><msm:altWr fromSem="tempo">metatempo</msm:altWr></msm:msmWr>, <msm:msmWr><msm:altWr fromSem="tempo">stratempiero</msm:altWr></msm:msmWr>:</l>
+						<l>cancella il mondo, <msm:msmWr><msm:recWr recId="1">Sdrènfano</msm:recWr></msm:msmWr>, <msm:msmWr><msm:altWr fromSem="cancella">stracance</msm:altWr></msm:msmWr>!</l>				
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Bottiglie</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Bottiglie</head>
+				<lg type="stanza">
+					<l>Non siamo tutti simili a bottiglie</l>
+					<l>ripiene di ricordi e cronicaglie?</l>
+					<l>Bistròccoli, fruschelli, filaccetti</l>
+					<l>ricolmano le pance trasparine,</l>
+					<l>fanfàggini, birìllidi, nulletti</l>
+					<l>s’asserpano in ghirlande cilestrine...</l>
+					<l>Se scuoti la bottiglia sgrengoluta</l>
+					<l>risorgono megoni e gastrifèmi,</l>
+					<l>rispuntano tra mèmmola grognuta</l>
+					<l>nascosti vercigogni e schifilemi.</l>
+					<l>Talvolta vedi invece lumigenti</l>
+					<l>miriàgoli, trigèridi, fernuschi,</l>
+					<l>e piangi su gavati struggimenti</l>
+					<l>finiti coi patassi fra i rifiuschi.</l>
+					<l>Non tornano a rivivere le facce</l>
+					<l>d’amici e d’amorilli luscherosi?</l>
+					<l>Risplòdono le voci, le morcacce</l>
+					<l>d’incontri cuspidiali e trucidiosi!</l>
+					<l>Poi un giorno la bottiglia si tracassa,</l>
+					<l>il vetro si sbiréngola nel sole</l>
+					<l>in croccherucci verdi, in patafrassa,</l>
+					<l>tra l’erbe cucche e cionche di pagliòle.</l>
+					<l>Ahi dove sono allora i gaviretti,</l>
+					<l>i nobili tracordi, i rimembrili.</l>
+					<l>i càccheri, gli smèrmidi, i frulletti,</l>
+					<l>i mòrfani, gli sghèfani gentili?</l>
+					<l>Sdrafànico mistero di bottiglia</l>
+					<l>bottiglia di sdrafànico mistero.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

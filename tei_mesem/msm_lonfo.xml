@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Il lonfo</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Il <msm:msmWr><msm:recWr recId="1">lonfo</msm:recWr></msm:msmWr></head>
+					<lg type="stanza">	
+						<l>Il <msm:msmWr><msm:recWr recId="1">lonfo</msm:recWr></msm:msmWr> non <msm:msmWr>vaterca</msm:msmWr> né <msm:msmWr>gluisce</msm:msmWr></l>
+						<l>e molto raramente <msm:msmWr><msm:notGr><msm:recGr recWhere="Prato" recWhat="barigaggio">barig</msm:recGr></msm:notGr>atta</msm:msmWr>,</l>
+						<l>ma quando soffia il <msm:msmWr>bego</msm:msmWr> a <msm:msmWr><msm:misWr><msm:recWr recId="2">bisce</msm:recWr></msm:misWr></msm:msmWr> <msm:msmWr><msm:misWr><msm:recWr recId="2">bisce</msm:recWr></msm:misWr></msm:msmWr></l>
+						<l><msm:msmWr><msm:altWr fromSem="sbilenco">sdilenca</msm:altWr></msm:msmWr> un poco, e <msm:msmWr><msm:altWr fromSem="mogio">gnagio</msm:altWr></msm:msmWr> s’<msm:msmWr>archipatta</msm:msmWr>.</l>
+						<l>È <msm:msmWr><msm:altWr fromSem="brusco"><msm:notGr><msm:recGr mWhere="Bottiglie" recWhat="fruschelli">frusc</msm:recGr></msm:notGr>o</msm:altWr></msm:msmWr> il <msm:msmWr><msm:recWr recId="1">lonfo</msm:recWr></msm:msmWr>! È pieno di <msm:msmWr>lupigna</msm:msmWr></l>
+						<l><msm:msmWr><msm:altWr fromSem="arraffare">arrafferia</msm:altWr></msm:msmWr> <msm:msmWr><msm:derWr fromSem="male;versata">malversa</msm:derWr></msm:msmWr> e <msm:msmWr>sofolenta</msm:msmWr>!</l>
+						<l>Se <msm:msmWr>cionfi</msm:msmWr> ti <msm:msmWr>sbiduglia</msm:msmWr> e t’<msm:msmWr>arrupigna</msm:msmWr></l>
+						<l>se <msm:msmWr>lugri</msm:msmWr> ti <msm:msmWr>botalla</msm:msmWr> e ti <msm:msmWr><msm:derWr fromSem="crivella;violenta">criventa</msm:derWr></msm:msmWr>.</l>
+						<l>Eppure il vecchio <msm:msmWr><msm:recWr recId="1">lonfo</msm:recWr></msm:msmWr> <msm:msmWr>ammargelluto</msm:msmWr></l>
+						<l>che <msm:msmWr>bete</msm:msmWr> e <msm:msmWr>zugghia</msm:msmWr> e <msm:msmWr><msm:notGr><msm:recGr recWhere="Dialogo celeste" recWhat="sfoncando">fonc</msm:recGr></msm:notGr>a</msm:msmWr> nei <msm:msmWr>trombazzi</msm:msmWr></l>
+						<l>fa <msm:msmWr><msm:notGr><msm:recGr recWhere="Chiesa" recWhat="lègi">lèg</msm:recGr></msm:notGr>ica</msm:msmWr> <msm:msmWr>busìa</msm:msmWr>, fa <msm:msmWr>gisbuto</msm:msmWr>;</l>
+						<l>e quasi quasi, in segno di <msm:msmWr>sberdazzi</msm:msmWr></l>
+						<l>gli <msm:msmWr><msm:altWr fromSem="faresti">affarfaresti</msm:altWr></msm:msmWr> un <msm:msmWr>gniffo</msm:msmWr>. Ma lui <msm:msmWr>zuto</msm:msmWr></l>
+						<l>t’<msm:msmWr>alloppa</msm:msmWr>, ti <msm:msmWr><msm:derWr fromSem="sberleffo;lecca">sbernecchia</msm:derWr></msm:msmWr>; e tu l’<msm:msmWr><msm:altWr fromSem="accarezzi">ac<msm:notGr><msm:recGr recWhere="Dialogo celeste" recWhat="cazzando">cazz</msm:recGr></msm:notGr>i</msm:altWr></msm:msmWr>.</l>			
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

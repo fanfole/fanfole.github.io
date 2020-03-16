@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>E gnacche alla formica</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>E <msm:msmWr><msm:recWr recId="1"><msm:notGr><msm:recGr recWhere="Il giorno ad urlapicchio" recWhat="gnacchi">gnacch</msm:recGr></msm:notGr>e</msm:recWr></msm:msmWr> alla formica</head>
+					<lg type="stanza">
+						<l>Io t’amo o pia cicala e un <msm:msmWr><msm:derWr fromSem="trillo;argento">trillargento</msm:derWr></msm:msmWr></l>
+						<l>ci <msm:msmWr><msm:recWr recWhere="Solstizio d'estate" recWhat="rispàffera">spàffera</msm:recWr></msm:msmWr> nel cuor la tua <msm:msmWr><msm:altWr fromSem="canzone">canzona</msm:altWr></msm:msmWr>.</l>
+						<l>Canta cicala <msm:msmWr><msm:altWr fromSem="frinisci">frìnfera</msm:altWr></msm:msmWr> nel vento:</l>
+						<l>E <msm:msmWr><msm:recWr recId="1">gnacche</msm:recWr></msm:msmWr> alla formica <msm:msmWr><msm:altWr fromSem="ammucchiare"><msm:recWr recId="2">ammucchiarona</msm:recWr></msm:altWr></msm:msmWr>!</l>
+						<l>Che vuole la formica con quell’<msm:msmWr>umbe</msm:msmWr></l>
+						<l>da <msm:msmWr>mòghera</msm:msmWr> <msm:msmWr><msm:altWr fromSem="burbera">burbiosa</msm:altWr></msm:msmWr>? È vero, <msm:msmWr>arzìa</msm:msmWr></l>
+						<l>per tutto il giorno, e <msm:msmWr><msm:altWr fromSem="traffica">tràmiga</msm:altWr></msm:msmWr> e <msm:msmWr>cucumbe</msm:msmWr></l>
+						<l>col capo chino in <msm:msmWr><msm:altWr fromSem="mogia">mogna</msm:altWr></msm:msmWr> <msm:msmWr>micrargìa</msm:msmWr>.</l>
+						<l>Verrà l’inverno, sì, verrà il <msm:msmWr><msm:altWr fromSem="mordere">mordese</msm:altWr></msm:msmWr></l>
+						<l>verranno tante <msm:msmWr><msm:altWr fromSem="gocce">gosce</msm:altWr></msm:msmWr> <msm:msmWr>aggramerine</msm:msmWr>,</l>
+						<l>ma intanto il sole <msm:msmWr><msm:misWr>schicchera</msm:misWr></msm:msmWr> <msm:msmWr>giglese</msm:msmWr></l>
+						<l>e <msm:msmWr>sgnèllida</msm:msmWr> tra <msm:msmWr>cròndale</msm:msmWr> <msm:msmWr><msm:notGr><msm:recGr recWhere="Ballo" recWhat="vèlvoli">velv</msm:recGr></msm:notGr>ine</msm:msmWr>.</l>
+						<l>Canta cicala, <msm:msmWr><msm:altWr fromSem="canta">càntera</msm:altWr></msm:msmWr> in <msm:msmWr><msm:derWr fromSem="manfrina;furore">manfrore</msm:derWr></msm:msmWr>,</l>
+						<l>il mezzogiorno <msm:msmWr><msm:altWr fromSem="zampetta">zàmpiga</msm:altWr></msm:msmWr> e <msm:msmWr><msm:altWr fromSem="leone">leona</msm:altWr></msm:msmWr>.</l>
+						<l>Canta cicala in <msm:msmWr>zìlleri</msm:msmWr> d’amore:</l>
+						<l>E <msm:msmWr><msm:recWr recId="1">gnacche</msm:recWr></msm:msmWr> alla formica <msm:msmWr><msm:altWr fromSem="ammucchiare"><msm:recWr recId="2">ammucchiarona</msm:recWr></msm:altWr></msm:msmWr>.</l>	
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Il vecchio Troncia</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Il vecchio Troncia</head>
+				<lg type="stanza">
+					<l>Oh chi mi dà un cremàgido luppiero</l>
+					<l>coi morpi ed i mitralli? Asbrentifroncia</l>
+					<l>io voglio bere! E versami quel nero</l>
+					<l>gagliardo perlinetto; il vecchio Troncia...</l>
+					<l>Dov’è quel vecchio ciùghero ch’ai canti</l>
+					<l>sventrava le dindèllere d’indracca,</l>
+					<l>e in nènfoli con trùgani gignanti</l>
+					<l>danzava le fogliucche alla morlacca?</l>
+					<l>Ah Troncia più non bevi adesso, e frogni</l>
+					<l>ridellano i pagliai dondifruscianti,</l>
+					<l>spumeggiano i ludrèfani fofogni</l>
+					<l>e bàbica la luna a stillidianti.</l>
+					<l>Ohi mesci un’altra gronga, Strabologni,</l>
+					<l>cantiamo a cincifrencia lilleranti.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

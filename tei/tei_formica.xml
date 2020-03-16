@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>E gnacche alla formica</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>E gnacche alla formica</head>
+				<lg type="stanza">
+					<l>Io t’amo o pia cicala e un trillargento</l>
+					<l>ci spàffera nel cuor la tua canzona.</l>
+					<l>Canta cicala frìnfera nel vento:</l>
+					<l>E gnacche alla formica ammucchiarona!</l>
+					<l>Che vuole la formica con quell’umbe</l>
+					<l>da mòghera burbiosa? È vero, arzìa</l>
+					<l>per tutto il giorno, e tràmiga e cucumbe</l>
+					<l>col capo chino in mogna micrargìa.</l>
+					<l>Verrà l’inverno, sì, verrà il mordese</l>
+					<l>verranno tante gosce aggramerine,</l>
+					<l>ma intanto il sole schicchera giglese</l>
+					<l>e sgnèllida tra cròndale velvine.</l>
+					<l>Canta cicala, càntera in manfrore,</l>
+					<l>il mezzogiorno zàmpiga e leona.</l>
+					<l>Canta cicala in zìlleri d’amore:</l>
+					<l>E gnacche alla formica ammucchiarona.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Il giorno ad urlapicchio</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Il giorno ad <msm:msmWr><msm:derWr fromSem="urlo;picchio"><msm:recWr recId="1">urlapicchio</msm:recWr></msm:derWr></msm:msmWr></head>
+					<lg type="stanza">
+						<l>Ci son dei giorni <msm:msmWr><msm:altWr fromSem="mogi"><msm:notGr><msm:recGr recWhere="Gli Arconti dell'Urazio" recWhat="smègo">smèg</msm:recGr></msm:notGr>i</msm:altWr></msm:msmWr> e <msm:msmWr>lombidiosi</msm:msmWr></l>
+						<l>ci son meriggi <msm:msmWr>gnàlidi</msm:msmWr> e <msm:msmWr>budriosi</msm:msmWr></l>
+						<l>che <msm:msmWr>plògidan</msm:msmWr> sul mondo <msm:msmWr>infragelluto</msm:msmWr>,</l>
+						<l>ma oggi è un giorno a <msm:msmWr>zìmpagi</msm:msmWr> e <msm:msmWr>zirlecchi</msm:msmWr></l>
+						<l>un giorno tutto <msm:msmWr><msm:notGr><msm:recGr recWhere="E gnacche alla formica" recWhat="gnacche">gnacch</msm:recGr></msm:notGr>i</msm:msmWr> e <msm:msmWr><msm:notGr><msm:recGr recWhere="Che fanno?" recWhat="timpare">timp</msm:recGr></msm:notGr>arlini</msm:msmWr>,</l>
+						<l>le nuvole <msm:msmWr>buzzillano</msm:msmWr>, i <msm:msmWr>bernecchi</msm:msmWr></l>
+						<l><msm:msmWr>ludèrchiano</msm:msmWr> coi <msm:msmWr>fèrnagi</msm:msmWr> tra i pini;</l>
+						<l>è un giorno per le <msm:msmWr><msm:misWr>vànvere</msm:misWr></msm:msmWr>, un <msm:msmWr><msm:altWr fromSem="festino"><msm:notGr><msm:recGr recWhere="Ballo;Le pietre rare;Gli Arconti dell'Urazio" recWhat="festuglia;festalìa;festigi">fest</msm:recGr></msm:notGr>icchio</msm:altWr></msm:msmWr></l>
+						<l>un giorno <msm:msmWr>carmidioso</msm:msmWr> e <msm:msmWr>prodigiero</msm:msmWr>,</l>
+						<l>è il giorno a <msm:msmWr><msm:derWr fromSem="canti;sortilegi">cantilegi</msm:derWr></msm:msmWr>, ad <msm:msmWr><msm:derWr fromSem="urlo;picchio"><msm:recWr recId="1">urlapicchio</msm:recWr></msm:derWr></msm:msmWr></l>
+						<l>in cui m’hai detto “t’amo per davvero”.</l>	
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

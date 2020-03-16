@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Chiesa</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Chiesa</head>
+				<lg type="stanza">
+					<l>Poriammo fernilegi e basilioni</l>
+					<l>col cuore in fiamme e gli occhi al cielo ircale.</l>
+					<l>Invano carpigemmo! I mormogoni</l>
+					<l>ludiavano perfuschi in sinfodiale.</l>
+					<l>Sperammo forse troppo? Un lucifragio</l>
+					<l>gognammo lègi in mistiche raggere;</l>
+					<l>sursimmo all’epidràtico naufragio</l>
+					<l>perduti tra le plòradi sidiere...</l>
+					<l>Fu tutto un fribbio, un bùghero, un lappime</l>
+					<l>di fànfole e nonnecchie aggretucciate?</l>
+					<l>Ahi un trèmide, un balùgero, uno sbrime</l>
+					<l>vagemmo con le mani attramigate!</l>
+					<l>Invece nulla: il cratto, i balsamieri</l>
+					<l>morgavano l’ipèrcade marmale.</l>
+					<l>Il mugno è zonfo: il fetro, i catombieri</l>
+					<l>agnàttano sul drome imporfidale.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

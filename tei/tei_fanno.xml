@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Che fanno?</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Che fanno?</head>
+				<lg type="stanza">
+					<l>Cancella il mondo, o Sdrènfano! Ti dico</l>
+					<l>cancella quest’ingubbio ammorboluto;</l>
+					<l>è inutile timpare a cianciafico</l>
+					<l>gli sbrègi d’un blafònfero fognuto.</l>
+					<l>Che fanno i morzacacchi, i gloriconi?</l>
+					<l>Strabiosciano in moffucci, in godicaglie.</l>
+					<l>Che fanno i migarelli? A strabuconi</l>
+					<l>gratterchiano le zocchie e le morgaglie.</l>
+					<l>Ahi Sdrènfano vantardo e carpiniero</l>
+					<l>strabasta con gli sbrilli e con le ciance.</l>
+					<l>È tempo, è metatempo, stratempiero:</l>
+					<l>cancella il mondo, Sdrènfano, stracance!</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

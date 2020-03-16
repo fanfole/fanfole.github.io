@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Gli Arconti dell'Urazio</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Gli Arconti dell’Urazio</head>
+				<lg type="stanza">
+					<l>“Giochiamo - fanno i putti - a Brancighello?”</l>
+					<l>Tu gnompi un brecco, sfanfi un lugherino,</l>
+					<l>io smègo un tafferuccio, un finfardello,</l>
+					<l>chi vince si tascheggia il marmellino.</l>
+					<l>“Giochiamo a Fantisberga, a Cassacoppe?”,</l>
+					<l>griderchiano gli omacci in vinargìa:</l>
+					<l>su bòghera le trappe, punto e gnoppe,</l>
+					<l>se vinco mi straquascio in brogiulìa.</l>
+					<l>“Giochiamo all’Uomo!” mormano mistigi</l>
+					<l>gli Arconti marmidiosi dell’Urazio:</l>
+					<l>chi vince lo balòccoli in festigi,</l>
+					<l>chi perde lo fracàsseri in bistrazio.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

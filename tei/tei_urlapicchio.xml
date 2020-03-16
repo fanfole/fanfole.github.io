@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Il giorno ad urlapicchio</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Il giorno ad urlapicchio</head>
+				<lg type="stanza">
+					<l>Ci son dei giorni smègi e lombidiosi</l>
+					<l>ci son meriggi gnàlidi e budriosi</l>
+					<l>che plògidan sul mondo infragelluto,</l>
+					<l>ma oggi è un giorno a zìmpagi e zirlecchi</l>
+					<l>un giorno tutto gnacchi e timparlini,</l>
+					<l>le nuvole buzzillano, i bernecchi</l>
+					<l>ludèrchiano coi fèrnagi tra i pini;</l>
+					<l>è un giorno per le vànvere, un festicchio</l>
+					<l>un giorno carmidioso e prodigiero,</l>
+					<l>è il giorno a cantilegi, ad urlapicchio</l>
+					<l>in cui m’hai detto “t’amo per davvero”.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

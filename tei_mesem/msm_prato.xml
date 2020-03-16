@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Prato</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Prato</head>
+					<lg type="stanza">
+						<l>M’han detto: Dio è vecchio, <msm:msmWr>ingramignuto</msm:msmWr>,</l>
+						<l>la barba gli <msm:msmWr><msm:recWr recWhere="Bottiglie" recWhat="sbiréngola">sbiréngola</msm:recWr></msm:msmWr> sul <msm:msmWr>groge</msm:msmWr>,</l>
+						<l><msm:msmWr><msm:derWr fromSem="mugugna;sgonfia">smogonfia</msm:derWr></msm:msmWr> <msm:msmWr><msm:derWr fromSem="brancolando;lardo">brancolardo</msm:derWr></msm:msmWr> a <msm:msmWr>lichenuto</msm:msmWr></l>
+						<l><msm:msmWr>rumando</msm:msmWr> <msm:msmWr><msm:notGr><msm:recGr recWhere="Che fanno?" recWhat="cianciafico">ciancia</msm:recGr></msm:notGr>fraglie</msm:msmWr> a <msm:msmWr>cacaloge</msm:msmWr>.</l>
+						<l>È vecchio Dio, è un <msm:msmWr>lonco</msm:msmWr> <msm:msmWr><msm:notGr><msm:recGr recWhere="Fiore secco in libro vecchio" recWhat="panfe">panf</msm:recGr></msm:notGr>idume</msm:msmWr></l>
+						<l>di <msm:msmWr>sbòfferi</msm:msmWr> e <msm:msmWr>muscecchi</msm:msmWr> in <msm:msmWr><msm:notGr><msm:recGr recWhere="Il lonfo" recWhat="barigatta">barig</msm:recGr></msm:notGr>aggio</msm:msmWr>,</l>
+						<l>è <msm:msmWr>flògido</msm:msmWr>, <msm:msmWr><msm:altWr fromSem="crono"><msm:notGr><msm:recGr recWhere="Bottiglie" recWhat="cronicaglie">cron</msm:recGr></msm:notGr>iere</msm:altWr></msm:msmWr>, un <msm:msmWr><msm:notGr><msm:recGr recWhere="Via Veneto;Gli Arconti dell'Urazio" recWhat="marmellano;marmellino">marmel</msm:recGr></msm:notGr>lume</msm:msmWr></l>
+						<l>di <msm:msmWr>gùbani</msm:msmWr> che <msm:msmWr><msm:altWr fromSem="gemono">gèmidan</msm:altWr></msm:msmWr> <msm:msmWr>morcaggio</msm:msmWr>.</l>
+						<l>Chi vuoi che <msm:msmWr>prigni</msm:msmWr> più quel <msm:msmWr>monumone</msm:msmWr></l>
+						<l><msm:msmWr><msm:notGr><msm:recGr recWhere="Bottiglie" recWhat="gavati">gavat</msm:recGr></msm:notGr>o</msm:msmWr>, <msm:msmWr>modruscente</msm:msmWr> e <msm:msmWr>laschidioso</msm:msmWr>?</l>
+						<l>Fu tutto, a ripensarci, una <msm:msmWr>drusione</msm:msmWr></l>
+						<l>un <msm:msmWr>fàghero</msm:msmWr> <msm:msmWr>fantàghero</msm:msmWr> <msm:msmWr><msm:altWr fromSem="nebbioso">mebbioso</msm:altWr></msm:msmWr>...</l>
+						<l>Così m’han detto in <msm:msmWr><msm:altWr fromSem="gnostica">gnàstica</msm:altWr></msm:msmWr> <msm:msmWr><msm:altWr fromSem="logica">logia</msm:altWr></msm:msmWr>.</l>
+						<l>Poi, fresc’aprile, vidi prati in fiore,</l>
+						<l>gli <msm:msmWr>aderni</msm:msmWr> – vidi – i <msm:msmWr>cragni</msm:msmWr>, la <msm:msmWr>zulìa</msm:msmWr></l>
+						<l><msm:msmWr>arrùschera</msm:msmWr> nel <msm:msmWr>frògido</msm:msmWr> <msm:msmWr>niscore</msm:msmWr>.</l>				
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

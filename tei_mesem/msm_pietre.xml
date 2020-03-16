@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Le pietre rare</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Le pietre rare</head>
+					<lg type="stanza">
+						<l>Ahi quanto è bello il <msm:msmWr>Dròspide</msm:msmWr> <msm:msmWr>gidioso</msm:msmWr></l>
+						<l>coi <msm:msmWr>drighi</msm:msmWr> e gli <msm:w>sgamucci</msm:w> <msm:msmWr><msm:altWr fromSem="appariscenti">agariscenti</msm:altWr></msm:msmWr>!</l>
+						<l>Ed amo lo <msm:msmWr>Sbifernio</msm:msmWr> e il <msm:msmWr>crapidioso</msm:msmWr></l>
+						<l><msm:msmWr>Agglàrice</msm:msmWr> coi <msm:msmWr>fìnfoli</msm:msmWr> <msm:msmWr><msm:derWr fromSem="raggianti;argento">raggenti</msm:derWr></msm:msmWr>.</l>
+						<l>Hai visto forse un <msm:msmWr>Drufo</msm:msmWr> <msm:msmWr>abbestonato</msm:msmWr>?</l>
+						<l>O i <msm:msmWr>Mògidi</msm:msmWr> far luce in <msm:msmWr><msm:altWr fromSem="festa"><msm:notGr><msm:recGr recWhere="Il giorno ad urlapicchio;Ballo;Gli Arconti dell'Urazio" recWhat="festicchio;festuglia;festigi">fest</msm:recGr></msm:notGr>alìa</msm:altWr></msm:msmWr>?</l>
+						<l>Hai visto uno <msm:msmWr>Squiridio</msm:msmWr>, un <msm:msmWr><msm:altWr fromSem="biforcuto">bifercato</msm:altWr></msm:msmWr></l>
+						<l><msm:msmWr>Cotèrbalo</msm:msmWr> che incanta e <msm:msmWr>tantalìa</msm:msmWr>?</l>
+						<l>Per te io voglio un <msm:msmWr>Gèfide</msm:msmWr> <msm:msmWr>bugizio</msm:msmWr></l>
+						<l><msm:msmWr><msm:derWr fromSem="agghindato;dorato">agghindorato</msm:derWr></msm:msmWr> in <msm:msmWr>Plònice</msm:msmWr> <msm:msmWr>bardiero</msm:msmWr>,</l>
+						<l>sarà cogli occhi tuoi un <msm:msmWr><msm:derWr fromSem="luce;precipizio">lucipizio</msm:derWr></msm:msmWr>;</l>
+						<l>m’<msm:msmWr><msm:derWr fromSem="pescherai;allungherai">al<msm:notGr><msm:recGr recWhere="Bottiglie" recWhat="luscherosi">luscher</msm:recGr></msm:notGr>ai</msm:derWr></msm:msmWr> dal fondo del mistero.</l>	
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

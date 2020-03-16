@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Circuito dell'anima</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Circuito dell’anima</head>
+				<lg type="stanza">
+					<l>Viaggiammo per millenni tra gli splagi</l>
+					<l>giù giù nei criptoporni stranidiosi,</l>
+					<l>lontano fosforivano gli Arcagi</l>
+					<l>o i Mongi teloprènici e quidiosi.</l>
+					<l>Aiuto, orrore! I gàstríci, gli smébri,</l>
+					<l>s’aggrécciano sugli énfani druniti,</l>
+					<l>o calano bustrènici gli affèbri</l>
+					<l>coi fòrnici viturpi ed allupiti...</l>
+					<l>Fuggiamo, via! ammòrfido l'encatro</l>
+					<l>sbaveggia una sughèfida melissi,</l>
+					<l>ovunque drogo accàncrena lo sfatro.</l>
+					<l>Eppure – ahi meraviglia – tra gli spissi</l>
+					<l>gramosi e blastifèmi, sul bovatro</l>
+					<l>svettiscono zirgendo gli acrolissi.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

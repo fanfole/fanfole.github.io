@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Ballo</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Ballo</head>
+				<lg type="stanza">
+					<l>Vortègida e festuglia o dulcibana</l>
+					<l>e sdrìllera che sdràllero! Sul fizio</l>
+					<l>la musica ci zùnfrega e ci sdrana</l>
+					<l>con tròdige buriagico e rubizio.</l>
+					<l>Lo sai che gli occhi gneschi e turchidiosi</l>
+					<l>son come abissi vèlvoli e maligi?</l>
+					<l>Lo sai che nei bluàgnoli miriosi</l>
+					<l>tracàcero con lèfane deligi?</l>
+					<l>Ah sdrìllera che sdràllero, mumurra</l>
+					<l>parole lampigiane ed umbralìe,</l>
+					<l>t’ascolto lucifuso nell’azzurra</l>
+					<l>voragine d’un’alba di bugie.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

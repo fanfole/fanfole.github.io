@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Il vecchio Troncia</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Il vecchio <msm:msmWr><msm:altWr fromSem="trinca"><msm:recWr recId="1">Troncia</msm:recWr></msm:altWr></msm:msmWr></head>
+					<lg type="stanza">
+						<l>Oh chi mi dà un <msm:msmWr><msm:derWr fromSem="crema;algido">cremàgido</msm:derWr></msm:msmWr> <msm:msmWr><msm:altWr fromSem="luppolo">luppiero</msm:altWr></msm:msmWr></l>
+						<l>coi <msm:msmWr>morpi</msm:msmWr> ed i <msm:msmWr>mitralli</msm:msmWr>? A <msm:msmWr><msm:notGr><msm:recGr recWhere="Solstizio d'estate" recWhat="sbrenta">sbrent</msm:recGr></msm:notGr>ifroncia</msm:msmWr></l>
+						<l>io voglio bere! E versami quel nero</l>
+						<l>gagliardo <msm:msmWr>perlinetto</msm:msmWr>; il vecchio <msm:msmWr><msm:altWr fromSem="trinca"><msm:recWr recId="1">Troncia</msm:recWr></msm:altWr></msm:msmWr>...</l>
+						<l>Dov’è quel vecchio <msm:msmWr><msm:altWr fromSem="sughero">ciùghero</msm:altWr></msm:msmWr> ch’ai canti</l>
+						<l>sventrava le <msm:msmWr>dindèllere</msm:msmWr> d’<msm:msmWr>indracca</msm:msmWr>,</l>
+						<l>e in <msm:msmWr>nènfoli</msm:msmWr> con <msm:msmWr>trùgani</msm:msmWr> <msm:msmWr><msm:altWr fromSem="ghignanti">gignanti</msm:altWr></msm:msmWr></l>
+						<l>danzava le <msm:msmWr><msm:altWr fromSem="foglie">fogliucche</msm:altWr></msm:msmWr> alla <msm:msmWr>morlacca</msm:msmWr>?</l>
+						<l>Ah <msm:msmWr><msm:altWr fromSem="trinca"><msm:recWr recId="1">Troncia</msm:recWr></msm:altWr></msm:msmWr> più non bevi adesso, e <msm:msmWr>frogni</msm:msmWr></l>
+						<l><msm:msmWr>ridellano</msm:msmWr> i pagliai <msm:msmWr><msm:derWr fromSem="donde;fruscianti">dondifruscianti</msm:derWr></msm:msmWr>,</l>
+						<l>spumeggiano i <msm:msmWr>lu<msm:notGr><msm:recGr recWhere="Dialogo celeste" recWhat="sindrèfani">drèfan</msm:recGr></msm:notGr>i</msm:msmWr> <msm:msmWr>fofogni</msm:msmWr></l>
+						<l>e <msm:msmWr>bàbica</msm:msmWr> la luna a <msm:msmWr>stillidianti</msm:msmWr>.</l>
+						<l>Ohi mesci un’altra <msm:msmWr>gronga</msm:msmWr>, <msm:msmWr>Strabologni</msm:msmWr>,</l>
+						<l>cantiamo a <msm:msmWr>cincifrencia</msm:msmWr> <msm:msmWr>lilleranti</msm:msmWr>.</l>
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

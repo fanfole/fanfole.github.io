@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Le pietre rare</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Le pietre rare</head>
+				<lg type="stanza">
+					<l>Ahi quanto è bello il Dròspide gidioso</l>
+					<l>coi drighi e gli sgamucci agariscenti!</l>
+					<l>Ed amo lo Sbifernio e il crapidioso</l>
+					<l>Agglàrice coi fìnfoli raggenti.</l>
+					<l>Hai visto forse un Drufo abbestonato?</l>
+					<l>O i Mògidi far luce in festalìa?</l>
+					<l>Hai visto uno Squiridio, un bifercato</l>
+					<l>Cotèrbalo che incanta e tantalìa?</l>
+					<l>Per te io voglio un Gèfide bugizio</l>
+					<l>agghindorato in Plònice bardiero,</l>
+					<l>sarà cogli occhi tuoi un lucipizio;</l>
+					<l>m’alluscherai dal fondo del mistero.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

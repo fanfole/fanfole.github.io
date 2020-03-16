@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Prato</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Prato</head>
+				<lg type="stanza">
+					<l>M’han detto: Dio è vecchio, ingramignuto,</l>
+					<l>la barba gli sbiréngola sul groge,</l>
+					<l>smogonfia brancolardo a lichenuto</l>
+					<l>rumando cianciafraglie a cacaloge.</l>
+					<l>È vecchio Dio, è un lonco panfidume</l>
+					<l>di sbòfferi e muscecchi in barigaggio,</l>
+					<l>è flògido, croniere, un marmellume</l>
+					<l>di gùbani che gèmidan morcaggio.</l>
+					<l>Chi vuoi che prigni più quel monumone</l>
+					<l>gavato, modruscente e laschidioso?</l>
+					<l>Fu tutto, a ripensarci, una drusione</l>
+					<l>un fàghero fantàghero mebbioso...</l>
+					<l>Così m’han detto in gnàstica logia.</l>
+					<l>Poi, fresc’aprile, vidi prati in fiore,</l>
+					<l>gli aderni – vidi – i cragni, la zulìa</l>
+					<l>arrùschera nel frògido niscore.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

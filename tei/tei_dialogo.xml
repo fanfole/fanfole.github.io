@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Dialogo celeste</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<head>Dialogo celeste</head>
+				<lg type="stanza">
+					<l>- E tu quando vivesti? – Io vissi all’era</l>
+					<l>degli Andali ludiati e perfidiosi:</l>
+					<l>gli artèdoni liriavano in finiera</l>
+					<l>metàrcopi e sindrèfani rodiosi...</l>
+					<l>- Io invece vissi ai tempi laccheroni</l>
+					<l>degli ùzzeri bagiosi e guazzacagni;</l>
+					<l>s’andava lornogorno a brencoloni</l>
+					<l>tra làlleri, gaglioppe e trucidagni;</l>
+					<l>d’inverno si zurcavano le precchie</l>
+					<l>cazzando lorigucci e naderlini,</l>
+					<l>a maggio si correvan le frullecchie</l>
+					<l>sfoncando con urlacci i mogherini.</l>
+				</lg>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

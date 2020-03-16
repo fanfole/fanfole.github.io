@@ -1,0 +1,208 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>F&agrave;nfole: TEI MESEM Guidelines</title>
+
+		<META NAME="DC.Title" CONTENT="F&agrave;nfole. Un markup metasemantico"/>
+		<META NAME="DC.Creator" CONTENT="Marani, Massimo"/>
+		<META NAME="DC.Subject" CONTENT="edizione digitale"/>
+		<META NAME="DC.Subject" CONTENT="markup languages"/>
+		<META NAME="DC.Subject" CONTENT="XML/TEI"/>
+		<META NAME="DC.Description" CONTENT="Progetto di marcatura metasemantica con edizione digitale della Gn&ograve;si delle F&agrave;nfole di Fosco Maraini"/>
+		<META NAME="DC.Publisher" CONTENT="Massimo Marani"/>
+		<META NAME="DC.Contributor" CONTENT="Tomasi, Francesca"/>
+		<META NAME="DC.Date" SCHEME="ISO8601" CONTENT="2018-04-19"/>
+		<META NAME="DC.Type" CONTENT="Text"/>
+		<META NAME="DC.Format" SCHEME="IMT" CONTENT="text/html"/>
+		<META NAME="DC.Identifier" CONTENT="URI"/> <!-- indicare URI -->
+		<META NAME="DC.Source" CONTENT="Maraini, Fosco. Gn&ograve;si delle F&agrave;nfole / Milano, Baldini Castoldi Dalai editore, 1994"/>
+		<META NAME="DC.Language" CONTENT="it"/>
+
+		<link rel="stylesheet" type="text/css" href="css/fanfole_style.css">
+		<link href='https://fonts.googleapis.com/css?family=Barrio' rel='stylesheet'>
+		<link href='https://fonts.googleapis.com/css?family=Rock Salt' rel='stylesheet'>
+		<link href='https://fonts.googleapis.com/css?family=Fresca' rel='stylesheet'>
+
+		<link rel="icon" href="immagini/fav_fanfole.ico" type="image/x-icon">
+	</head>
+	<body>
+	<div id="intro">
+		<header class="header">
+			<h1><a href="domain_index.html">F&agrave;nfole</a></h1>
+			<h2>Edizione Digitale e Markup Metasemantico</h2>
+		</header>
+		<nav>
+			<ul class="topnav">
+				<li><a href="domain_index.html">Home</a></li>
+				<li><a href="progetto.html">Il progetto</a></li>
+				<li><a href="fanfole.html">Le F&agrave;nfole</a></li>
+				<li><a href="metasemantica.html">Metasemantica</a></li>
+				<li><a href="autore.html">L'autore</a></li>
+			</ul>
+			<ul class="breadcrumb">
+			  <li><a href="domain_index.html">Home</a></li>
+			  <li>Linee Guida TEI MESEM</li>
+			</ul>
+		</nav>
+	</div>
+	<div class="row">
+		<div class="column right">
+			<section class="main">
+				<h3>Linee Guida di TEI MESEM</h3>
+
+					<h6>Indice</h6>
+					<ul>
+						<li><a href="#par1" class="int_link" title="Vai al paragrafo">Elementi e Attributi</a></li>
+						<li><a href="#par2" class="int_link" title="Vai al paragrafo">Applicazione e Marcatura</a></li>
+						<li><a href="#par3" class="int_link" title="Vai al paragrafo">Rapporto con TEI</a></li>
+						<li><a href="#par4" class="int_link" title="Vai al paragrafo">Visualizzazione dello schema</a></li>
+					</ul>
+					<p><br> NB: si consiglia, per acquisire le informazioni teoriche e tecniche fondamentali alla comprensione e all'appicazione delle seguenti Linee Guida, di affrontare prima la lettura de <a href="progetto.html" class="int_link" target="_blank" title="Vai alla sezione Il Progetto">Il Progetto</a>.</p>
+				<hr>
+				<a name="par1"><h5>Elementi e Attributi</h5></a>
+				<p>TEI MESEM introduce 8 nuovi elementi, in dipendenza gerarchica, e 8 nuovi attributi. Per ognuno &egrave; indicato se l’utilizzo, nella marcatura con TEI MESEM, &egrave; opzionale o obbligatorio.</p>
+					<h6>ELEMENTI</h6>
+					<ul>
+						<li><b>msmTxt</b> (<i>metasemantic text</i>, opzionale): contiene un testo (o una porzione di testo) scritto seguendo lo stile metasemantico.</li>
+						<li><b>msmWr</b> (<i>metasemantic word</i>, opzionale): contiene una parola metasemantica; da esso dipendono:</li>
+							<ul class="int_list">
+							 	<li><b>altWr</b> (<i>altered word</i>, opzionale): contiene una parola metasemantica prodotta attraverso l'alterazione di una specifica parola semantica;</li>
+								<li><b>derWr</b> (<i>derived word</i>, opzionale): contiene una parola metasemantica derivata da due o pi&ugrave; specifiche parole semantiche;</li>
+								<li><b>misWr</b> (<i>mistaken word</i>, opzionale): contiene una parola semantica utilizzata impropriamente in un contesto metasemantico;</li>
+								<li><b>recWr</b> (<i>recurrent word</i>, opzionale): contiene una parola metasemantica che compare pi&ugrave; di una volta, nel medesimo testo o altrove.</li>
+							</ul>
+						<li><b>notGr</b> (<i>noticeable group</i>, opzionale): contiene un gruppo di lettere di particolare interesse analitico; da esso dipende:</li>
+							<ul class="int_list">
+								<li><b>recGr</b> (<i>recurrent group</i>, opzionale): indica un gruppo di lettere che compare pi&ugrave; di una volta, nel medesimo testo o altrove.</li>
+							</ul>
+					</ul>
+					<h6>ATTRIBUTI</h6>
+					<ul>
+						<li><b>@langRef</b> (<i>language of reference</i>, obbligatorio): indica la lingua di riferimento (di norma, la lingua d'uso dell'autore) di un testo metasemantico; inserito in &lt;msmTx&gt;;</li>
+						<li><b>@msmAll</b> (<i>all metasemantic</i>, obbligatorio): indica se ogni parola di un testo metasemantico &egrave; metasemantica; inserito in "msmTxt";</li>
+						<li><b>@gramMorph</b> (<i>grammatical morpheme</i>, opzionale): indica una possibile struttura morfemica, isolando i morfemi grammaticali riconoscibili, di una parola metasemantica; inserito in &lt;msmWr&gt;;</li>
+						<li><b>@fromSem</b> (<i>from semantic word</i>, obbligatorio): indica una o pi&ugrave; parole semantiche a partire dalle quali &egrave; prodotta una parola metasemantica; inserito in &lt;altWr&gt; e &lt;derWr&gt;;</li>
+						<li><b>@altSem</b> (<i>alternative semantic word</i>, opzionale): indica una o pi&ugrave; parole semantiche alternative a quelle indicate da @fromSem; inserito in &lt;altWr&gt; e &lt;derWr&gt;;</li>
+						<li><b>@recId</b> (<i>recurrence id</i>, opzionale – obbligatorio nella casistica): indica un numero identificativo per un elemento metasemantico ricorrente nel medesimo testo; inserito in &lt;recWr&gt; e &lt;recGr&gt;;</li>
+						<li><b>@recWhere</b> (<i>recurrent where</i>, opzionale – obbligatorio nella casistica): indica dove compare un elemento metasemantico ricorrente in altri testi; inserito in &lt;recWr&gt; e &lt;recGr&gt;;</li>
+						<li><b>@recWhat</b> (<i>recurrent what</i>, opzionale – obbligatorio nella casistica): indica la parola (o le parole) in cui compare un gruppo di lettere ricorrente; inserito in &lt;recGr&gt;.</li>
+					</ul>
+
+				<hr>
+				<a name="par2"><h5>Applicazione e Marcatura</h5></a>
+				<p>1. Per prima cosa occorre individuare la porzione di testo da ritenersi metasemantica, marcandola con &lt;msmTxt&gt; e inserendo gli attributi (obbligatori) @langRef (con valore espresso seguendo lo standard ISO 639-2 ) e @msmAll (con valore "yes" o "no"). Nel caso delle f&agrave;nfole:</p>
+					<p class="es"><i>langRef=“ita” msmAll=“no”</i></p>
+				<p>Nell’eventualit&agrave; che ci sia solo una parola metasemantica da prendere in esame, &egrave; possibile evitare l’uso di &lt;msmTxt&gt; e ricorrere direttamente a &lt;msmWr&gt;.</p>
+				<p>2. Si procede marcando ogni parola metasemantica con &lt;msmWr&gt;, inserendo eventualmente l’attributo @gramMorph; il valore dell’attributo va espresso separando ogni morfema grammaticale dalla rimanente parte della parola con una barra:</p>
+					<p class="es"><i>gramMorph="lonf/o"</i></p>
+				<p>3. A discrezione dell’utente, si possono includere gli elementi (che si escludono a vicenda) &lt;altWr&gt; e &lt;derWr&gt;. Agli elementi &lt;altWr&gt; e &lt;derWr&gt; deve obbligatoriamente essere associato l'attributo @fromSem; nel caso di &lt;derWr&gt;, il valore di @fromSem deve contenere un minimo di due parole, separate da punto e virgola.</p> 
+					<p class="es"><i>&lt;derWr fromSem=“arditi;radiosi”&gt;ardiosi&lt;/derWr&gt;</i></p>
+				<p>Ad entrambi pu&ograve; essere associato anche @altSem (con valore espresso analogamente), ricordando che &egrave; buona norma, nel caso di alternative a parole diverse, elencarle nell'ordine usato in @fromSem:</p>
+					<p class="es"><i>&lt;derWr fromSem=“arditi;radiosi” altSem=“ardenti;insidiosi”&gt;ardiosi&lt;/derWr&gt;</i></p>
+				<p>4. &Egrave; possibile inserire anche, in alternativa a quelli riportati al punto 3, l’elemento &lt;misWr&gt;, per evidenziare che una parola semantica &egrave; usata in contesto metasemantico con un senso che non riguarda il proprio significato:</p>
+					<p class="es"><i>&lt;misWr&gt;cazzando&lt;/missWr&gt;</i></p>
+				<p>5. Infine, &egrave; opportuno marcare parole metasemantiche e gruppi di lettere che ricorrono con i rispettivi marcatori &lt;recWr&gt; e &lt;recGr&gt;  e i relativi attributi: nel caso di ricorrenze infratestuali, si raccomanda l'uso di @recId (con valore numerico) ; nel caso di ricorrenze intertestuali, si raccomanda l'uso di @recWhere (indicando nel valore il titolo dell'opera ed eventuali altri riferimenti ); nel caso di una raccolta di testi diversi in un unico documento XML, &egrave; raccomandato l'uso combinato dei due attributi. &egrave; obbligatorio anche l’uso di @recWhat, in &lt;recGr&gt;, per indicare in quale altra parola (o quali altre parole) il gruppo di lettere compare.</p>
+				<hr>
+				<a name="par3"><h5>Rapporto con TEI</h5></a>
+				<p>1. Per agevolare la distinzione degli elementi di TEI MESEM e TEI, &egrave; opportuno inserire il namespace (che rimanda a <a href="ns.html" class="int_link" target="_blank" title="Vai alla pagina del namespace">questa pagina</a>) degli elementi di TEI MESEM, associando il prefisso "msm", in questo modo:</p>
+					<p class="es"><i>&lt;TEI xmlns=“http://www.tei-c.org/ns/1.0”  xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns"&gt;</i></p>
+				<p>Si consiglia caldamente di anteporre il medesimo prefisso a ogni elemento di TEI MESEM, in modo da non generare confusione  con gli elementi di TEI e ricondurre gli elementi al corretto namespace:</p>
+					<p class="es"><i>&lt;msm:msmTxt&gt;</i></p>
+				<p>2. Dal momento che TEI MESEM &egrave;, di fatto, un'estensione di TEI, i nuovi marcatori, a parit&agrave; di porzione testuale marcata, sono da porsi entro quelli di TEI. Ad esempio, &lt;metaSem&gt; &egrave; da inserirsi, nel caso di un testo poetico, dopo il marcatore &lt;lg&gt; che indica la poesia (ma prima, com'&egrave; ovvio, del marcatore &lt;lg&gt; che indica la strofa); parimenti, elementi che marcano singole parole andranno inseriti dopo analoghi marcatori di TEI:</p>
+					<p class="es"><i>&lt;term&gt;&lt;msm:misWr&gt;cazzando&lt;/msm:misWr&gt;&lt;/term&gt;</i></p>				
+				<hr>
+				<a name="par4"><h6>Visualizzazione dello schema</h6></a>
+				<p class="schema">Di seguito, &egrave; possibile visualizzare lo schema di TEI MESEM in formato DTD e in  formato <a href="https://relaxng.org/" class="ext_link" target="_blank" title="Vai al sito ufficiale di RELAX NG">RELAX NG</a>.</p>
+				
+				<div class="download">
+					<div class="marcature left">
+						<p><a href="schema/tei_mesem.dtd" class="filelink" target="_blank"><img src="immagini/download.png" alt="DTD" class="iconfile" title="Visualizza TEI MESEM in DTD"></a> &nbsp;DTD</p>
+					</div>	
+					<div class="marcature right">
+						<p><a href="schema/tei_mesem.rnc" class="filelink" target="_blank"><img src="immagini/download.png" alt="RELAX NG" class="iconfile" title="Visualizza TEI MESEM in RELAX NG"></a> &nbsp;RELAX NG</p>
+					</div>
+				</div>
+
+			</section>
+
+		</div>
+		<div class="column left">
+			<aside class="sidenav">
+				<h4>Poesie A-Z</h4>
+				<ul>
+					<li><a href="poesia_ballo.html">Ballo</a></li>
+					<li><a href="poesia_bottiglie.html">Bottiglie</a></li>
+					<li><a href="poesia_fanno.html">Che fanno?</a></li>
+					<li><a href="poesia_chiesa.html">Chiesa</a></li>
+					<li><a href="poesia_anima.html">Circuito dell'anima</a></li>
+					<li><a href="poesia_dialogo.html">Dialogo celeste</a></li>
+					<li><a href="poesia_formica.html">E gnacche alla formica</a></li>
+					<li><a href="poesia_fiore.html">Fiore secco in libro vecchio</a></li>
+					<li><a href="poesia_arconti.html">Gli Arconti dell'Urazio</a></li>
+					<li><a href="poesia_urlapicchio.html">Il giorno ad urlapicchio</a></li>
+					<li><a href="poesia_lonfo.html">Il lonfo</a></li>
+					<li><a href="poesia_troncia.html">Il vecchio Troncia</a></li>
+					<li><a href="poesia_pietre.html">Le pietre rare</a></li>
+					<li><a href="poesia_prato.html">Prato</a></li>
+					<li><a href="poesia_solstizio.html">Solstizio d'estate</a></li>
+					<li><a href="poesia_veneto.html">Via Veneto</a></li>
+				</ul>
+				<h4>Lemmario</h4>
+				<p><a href="metavocab.html">Lemmario Metasemantico</a></p>
+				<h4>TEI MESEM</h4>
+				<p><a href="tei_mesem_guidelines.html">Linee Guida di TEI MESEM</a></p>
+			</aside>
+		</div>
+	</div>
+		<footer class="footer">
+			<div class="box left">
+				<h6>Riferimenti</h6>
+				<p class="biblio"><a href="biblio.html" class="foot_link" title="Leggi la Bibliografia">BIBLIOGRAFIA<br>-<br>SITOGRAFIA</a></p>
+			</div>
+			<div class="box center">
+
+				<form action="action_page.php">
+				  <div class="newsletter">
+				    <h6>Newsletter</h6>
+				    <p>Rimani aggiornato su novit&agrave;, progetti e modifiche</p>
+				  </div>
+
+				  <div class="newsletter" style="background-color:#0d0d0d">
+				    <input type="text" placeholder="Il tuo nome" name="name" required>
+				    <input type="text" placeholder="La tua mail" name="mail" required>
+				  </div>
+
+				  <div class="newsletter">
+				    <input type="submit" value="ISCRIVITI">
+				  </div>
+				</form>
+
+			</div>
+			<div class="box right">
+				<h6>Credits</h6>
+				<p class="credits">&copy; &nbsp;2020&nbsp; <span style="color:#f9f9f9">Massimo Marani</span></p>
+				<p class="mail">massimo.marani3@studio.unibo.it</p>
+				<hr>
+				<p class="project">Progetto di <a href="http://www.letterebeniculturali.unibo.it/it/corsi/insegnamenti/insegnamento/2017/423307" target="_blank" class="foot_link" title="Scopri di pi&ugrave;">Digital Humanities</a></p>
+				<p class="professor">Docente: <a href="https://www.unibo.it/sitoweb/francesca.tomasi" target="_blank" class="foot_link" title="Scopri di pi&ugrave;">Francesca Tomasi</a></p>
+			</div>
+		</footer>
+
+		<button onclick="topFunction()" id="myBtn" title="Torna su">TORNA SU</button>
+			<script>
+				mybutton = document.getElementById("myBtn");
+				window.onscroll = function() {scrollFunction()};
+				function scrollFunction() {
+				  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+				    mybutton.style.display = "block";
+				  } else {
+				    mybutton.style.display = "none";
+				  }
+				}
+				function topFunction() {
+				  document.body.scrollTop = 0; 
+				  document.documentElement.scrollTop = 0;
+				}
+			</script>
+	</body>
+</html>

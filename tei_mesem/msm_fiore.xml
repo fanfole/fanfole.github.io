@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Fiore secco in libro vecchio</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Fiore secco in libro vecchio</head>
+					<lg type="stanza">
+						<l>Ricordi quando usavano le <msm:msmWr>boppie</msm:msmWr></l>
+						<l>calate sui <msm:msmWr>pitànferi</msm:msmWr> <msm:msmWr><msm:altWr fromSem="supini">supigni</msm:altWr></msm:msmWr>,</l>
+						<l>e <msm:msmWr>légoli</msm:msmWr> <msm:msmWr>girucchi</msm:msmWr> a <msm:msmWr><msm:notGr><msm:recGr recWhere="Prato" recWhat="panfidume">panf</msm:recGr></msm:notGr>e</msm:msmWr> doppie</l>
+						<l>ornavano gli <msm:msmWr><msm:altWr fromSem="plagi"><msm:recWr recWhere="Circuito dell'anima" recWhat="splagi">splagi</msm:recWr></msm:altWr></msm:msmWr> e i <msm:msmWr>pitirigni</msm:msmWr>?</l>
+						<l>Oh zie, oh dolci zie in <msm:msmWr>bardocheta</msm:msmWr></l>
+						<l>voltatevi col <msm:msmWr>glostro</msm:msmWr> ricamato,</l>
+						<l>scendete per le scale a <msm:msmWr><msm:altWr fromSem="bi;cheta"><msm:recWr recId="1">beta</msm:recWr></msm:altWr></msm:msmWr> <msm:msmWr><msm:altWr fromSem="bi;cheta"><msm:recWr recId="1">beta</msm:recWr></msm:altWr></msm:msmWr></l>
+						<l>dai <msm:msmWr>màberi</msm:msmWr> del tempo <msm:msmWr><msm:misWr>agglutinato</msm:misWr></msm:msmWr>!</l>
+						<l>Chissà laggiù se ancora la <msm:msmWr>sbidiera</msm:msmWr></l>
+						<l><msm:msmWr><msm:altWr fromSem="mugugna">gramugna</msm:altWr></msm:msmWr> lentamente a <msm:msmWr>cantalaghi</msm:msmWr></l>
+						<l>nell’<msm:msmWr>ufe</msm:msmWr> <msm:msmWr><msm:recWr recId="2">coccia</msm:recWr></msm:msmWr> <msm:msmWr><msm:recWr recId="2">coccia</msm:recWr></msm:msmWr> della sera?</l>
+						<l>Or più non usa uscire sugli <msm:msmWr>sbaghi</msm:msmWr></l>
+						<l>guardando avanti a sé con aria altera,</l>
+						<l>tra i <msm:msmWr>lùgheri</msm:msmWr>, gli <msm:msmWr>arcostoli</msm:msmWr>, gli <msm:msmWr>snaghi</msm:msmWr>.</l>				
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>

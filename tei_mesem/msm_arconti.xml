@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:msm="http://www.fanfole.com/tei_mesem_guidelines/ns">
+	
+	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Gli Arconti dell'Urazio</title>
+ 				<author>Fosco Maraini</author>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Massimo Marani</publisher>
+			 </publicationStmt>
+ 			<sourceDesc>
+ 				<bibl>
+ 					<title>Gnòsi delle Fànfole</title>
+ 					<author>Fosco Maraini</author>
+ 					<publisher>Baldini Castoldi Dalai editore</publisher>
+ 					<pubPlace>Milano</pubPlace>
+ 					<date>1994</date>
+ 				</bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 	</teiHeader>
+
+ 	<text>
+		<body>
+			<lg type="poem">
+				<msm:msmTxt langRef="ita" msmAll="no">
+					<head>Gli <msm:msmWr><msm:misWr><msm:recWr recId="1">Arconti</msm:recWr></msm:misWr></msm:msmWr> dell’<msm:msmWr><msm:derWr fromSem="uranio; spazio"><msm:recWr recId="2">Urazio</msm:recWr></msm:derWr></msm:msmWr></head>
+					<lg type="stanza">
+						<l>“Giochiamo - fanno i <msm:msmWr><msm:misWr>putti</msm:misWr></msm:msmWr> - a <msm:msmWr>Brancighello</msm:msmWr>?”</l>
+						<l>Tu <msm:msmWr>gnompi</msm:msmWr> un <msm:msmWr>brecco</msm:msmWr>, <msm:msmWr>sfanfi</msm:msmWr> un <msm:msmWr>lugherino</msm:msmWr>,</l>
+						<l>io <msm:msmWr><msm:notGr><msm:recGr recWhere="Il giorno ad urlapicchio" recWhat="smègi">smèg</msm:recGr></msm:notGr>o</msm:msmWr> un <msm:msmWr><msm:altWr fromSem="tafferuglio">tafferuccio</msm:altWr></msm:msmWr>, un <msm:msmWr>finfardello</msm:msmWr>,</l>
+						<l>chi vince si <msm:msmWr><msm:altWr fromSem="intasca">tascheggia</msm:altWr></msm:msmWr> il <msm:msmWr><msm:notGr><msm:recGr recWhere="Via Veneto;Prato" recWhat="marmellano;marmellume">marmel</msm:recGr></msm:notGr>lino</msm:msmWr>.</l>
+						<l>“Giochiamo a <msm:msmWr>Fantisberga</msm:msmWr>, a <msm:msmWr><msm:derWr fromSem="scassa;coppe" wAlt="incassa">Cassacoppe</msm:derWr></msm:msmWr>?”,</l>
+						<l><msm:msmWr><msm:derWr fromSem="gridano;soverchiano">griderchiano</msm:derWr></msm:msmWr> gli <msm:msmWr><msm:misWr>omacci</msm:misWr></msm:msmWr> in <msm:msmWr><msm:derWr fromSem="vino;energia" altSem="sinergia">vinargìa</msm:derWr></msm:msmWr>:</l>
+						<l>su <msm:msmWr>bòghera</msm:msmWr> le <msm:msmWr><msm:misWr>trappe</msm:misWr></msm:msmWr>, punto e <msm:msmWr>gnoppe</msm:msmWr>,</l>
+						<l>se vinco mi <msm:msmWr><msm:notGr><msm:recGr recWhere="Solstizio d'estate" recWhat="Straquasci">straquasc</msm:recGr></msm:notGr>io</msm:msmWr> in <msm:msmWr><msm:derWr fromSem="brodo;giuggiole">brogiulìa</msm:derWr></msm:msmWr>.</l>
+						<l>“Giochiamo all’Uomo!” <msm:msmWr><msm:altWr fromSem="mormorano"><msm:notGr><msm:recGr recWhere="Chiesa" recWhat="mormogoni">morm</msm:recGr></msm:notGr>ano</msm:altWr></msm:msmWr> <msm:msmWr>mistigi</msm:msmWr></l>
+						<l>gli <msm:msmWr><msm:misWr><msm:recWr recId="1">Arconti</msm:recWr></msm:misWr></msm:msmWr> <msm:msmWr>marmidiosi</msm:msmWr> dell’<msm:msmWr><msm:derWr fromSem="uranio;spazio"><msm:recWr recId="2">Urazio</msm:recWr></msm:derWr></msm:msmWr>:</l>
+						<l>chi vince lo <msm:msmWr><msm:altWr fromSem="balocchi">balòccoli</msm:altWr></msm:msmWr> in <msm:msmWr><msm:derWr fromSem="festa;fastigi"><msm:notGr><msm:recGr recWhere="Il giorno ad urlapicchio;Le pietre rare;Ballo" recWhat="festicchio;festalìa;festuglia">fest</msm:recGr></msm:notGr>igi</msm:derWr></msm:msmWr>,</l>
+						<l>chi perde lo <msm:msmWr><msm:altWr fromSem="fracassi">fracàsseri</msm:altWr></msm:msmWr> in <msm:msmWr><msm:derWr fromSem="bistratto;strazio">bistrazio</msm:derWr></msm:msmWr>.</l>
+					</lg>
+				</msm:msmTxt>
+			</lg>
+		</body>
+	</text>
+
+</TEI>
