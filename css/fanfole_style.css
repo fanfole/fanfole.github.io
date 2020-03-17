@@ -116,11 +116,11 @@ ul.breadcrumb li a:hover {
     float: left;
 }
 .main_column.right {
-	max-width:400px;
+	width:400px;
 	padding-right:;
 }
 .main_column.left {
-	max-width:370px;
+	width:370px;
 	padding-right:60px;
 	padding-left: 30px;
 }
